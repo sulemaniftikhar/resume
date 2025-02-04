@@ -1,2 +1,2 @@
 # resume
-A short resume
+A short [resume](https://sulemaniftikhar.github.io/resume/)
